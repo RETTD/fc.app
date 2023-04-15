@@ -136,19 +136,19 @@ this will run `cocoapods` to install all the required dependencies.
 ## Screenshots
 
 <div align="center">
-    <img src="./screenshots/screenshot1.png" width="50%" />
+    <img src="./screenshots/screenshot1.jpg" width="50%" />
 </div>
 
 <div align="center">
-    <img src="./screenshots/screenshot2.png" width="50%" /> 
+    <img src="./screenshots/screenshot2.jpg" width="50%" /> 
 </div>
 
 <div align="center">
-    <img src="./screenshots/screenshot3.png" width="50%" />
+    <img src="./screenshots/screenshot3.jpg" width="50%" />
 </div>
 
 <div align="center">
-    <img src="./screenshots/screenshot4.png" width="50%" />
+    <img src="./screenshots/screenshot4.jpg" width="50%" />
 </div>
 ---
 
